@@ -1,0 +1,5 @@
+Name: Harsh Raj
+Student ID: 12324910
+Favorite Programming Language: Python
+GitHub Username: harsh-raj04
+Current Semester: 3rd
