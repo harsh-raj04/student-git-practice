@@ -1,1 +1,1 @@
-This repository is for my ca2
+This repository is for practicing Git operations
